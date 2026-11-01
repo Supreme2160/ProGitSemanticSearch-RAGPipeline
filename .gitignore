@@ -1,0 +1,16 @@
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+.venv/
+
+# Raw PDFs and scratch files
+data/
+checks.txt
+*.mp4
+
+# Python cache
+__pycache__/
+*.py[cod]
